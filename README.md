@@ -1,0 +1,2 @@
+# FAKE-STORE-TYPESCRIPT-
+Fake.
